@@ -13,5 +13,5 @@ I'm a **Frontend Developer** focused on building modern, high-performance web ap
 - Building responsive and accessible interfaces with **Tailwind CSS**.
 
 ---
-📫 **How to reach me:** 
+📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-dos-santos-dev/)
